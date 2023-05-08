@@ -1,2 +1,2 @@
 # random-joke
-A simple random joke generator app
+A simple random Chuck Norris joke generator app
